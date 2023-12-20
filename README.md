@@ -59,3 +59,4 @@ Media proof: [Insert videos, pictures, etc showing the bug]
 ## Notes to consider
 - The developers are notified on Discord via a webhook about new issues
 - Pay attention to issues/suggestions you send here, we might respond here, not in discord!
+- Any PR opened will be denied, changes will be made by Collaborators only (AKA Me and Asineth)
