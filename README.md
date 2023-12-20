@@ -30,6 +30,7 @@ Bug types:
 - Bug
 - Exploit
 - Missing Feature
+- Suggestion
 - Other
 
 ### Issue Body Template
@@ -47,6 +48,8 @@ Replicating: [Insert how to replicate it, step-by-step. You can use a list]
 
 Media proof: [Insert videos, pictures, etc showing the bug]
 ```
+
+(Suggestions don't need to follow this template)
 
 ## What <u>NOT</u> to report!
 - Server issues
