@@ -6,6 +6,8 @@ Public issue tracker for the Horizon Life RP's NPCs. The purpose for this is to 
 ## Sending an issue
 Head to the [Issues page](https://github.com/mycpphurts/HorizonNPC-IssueTracker/issues) and follow the templates below.
 
+NOTE: You can also send suggestions in here, they will be tagged as Suggestion using Github's Tag feature.
+
 ## How to report an issue? Step by step
 
 ### Requirements
@@ -50,3 +52,7 @@ Media proof: [Insert videos, pictures, etc showing the bug]
 - Server issues
 - Issues caused from external factors like Glass not being able to be crafted
 - Any bug unrelated to NPCs.
+
+## Notes to consider
+- The developers are notified on Discord via a webhook about new issues
+- Pay attention to issues/suggestions you send here, we might respond here, not in discord!
